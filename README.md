@@ -55,4 +55,8 @@ Get-Help .\Get_Install_Soft_in_W2022_v1.ps1 -Detailed
 ## Автор
 
 Александр Николаев
+<<<<<<< HEAD
 E-mail: nick@lmhosts.ru 
+=======
+E-mail: nick@lmhosts.ru
+>>>>>>> d80dfdb35cb7b942a44b1a22b6f761cffe8081f4
