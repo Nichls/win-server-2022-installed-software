@@ -47,7 +47,7 @@
     - Достаточно свободного места на диске
 
 .LINK
-    https://github.com/Nichls/Get_Install_Soft_in_W2022_v2.ps1
+    https://github.com/Nichls/win-server-2022-installed-software
 #>
 
 # Определение параметров скрипта
