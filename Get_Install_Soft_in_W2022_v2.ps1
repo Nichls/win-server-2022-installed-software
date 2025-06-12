@@ -47,7 +47,7 @@
     - Достаточно свободного места на диске
 
 .LINK
-    https://github.com/Nichls/Get-TSUsers
+    https://github.com/Nichls/Get_Install_Soft_in_W2022_v2.ps1
 #>
 
 # Определение параметров скрипта
