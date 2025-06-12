@@ -40,6 +40,8 @@
     Кодировка файла:
     - Файл должен быть сохранен в кодировке UTF-16 BE (Big Endian) с BOM
     - Рекомендуется использовать Notepad++ для конвертации в UTF-16 BE с BOM
+.LINK
+    https://github.com/Nichls/win-server-2022-installed-software
 #>
 
 # Определение параметров скрипта
