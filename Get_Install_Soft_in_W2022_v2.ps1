@@ -47,7 +47,7 @@
     - Достаточно свободного места на диске
 
 .LINK
-    https://github.com/your-repo/Get-TSUsers
+    https://github.com/Nichls/Get-TSUsers
 #>
 
 # Определение параметров скрипта
